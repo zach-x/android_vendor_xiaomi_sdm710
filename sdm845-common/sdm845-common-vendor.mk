@@ -185,4 +185,6 @@ PRODUCT_PACKAGES += \
     QPerformance \
     UxPerformance \
     WfdCommon \
-    chargeonlymode
+    chargeonlymode \
+    HotwordEnrollmentOKGoogleWCD9340 \
+    HotwordEnrollmentXGoogleWCD9340
