@@ -185,6 +185,7 @@ PRODUCT_PACKAGES += \
     WfdService \
     dpmserviceapp \
     ims \
+    GoogleCamera \
     qcrilmsgtunnel \
     QPerformance \
     UxPerformance \
